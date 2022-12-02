@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "StartNewJourney.." << endl;
+    cout << "StartNewJourney" << endl;
     return 0;
 }
